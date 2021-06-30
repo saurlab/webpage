@@ -1,0 +1,80 @@
+---
+title: "**Current team**"
+output: 
+  html_document:
+    toc: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<br>
+
+<img src="/Users/isabe/Desktop/webpage1new/pictures/izzy.jpg" style="float: left; margin: 0em 1em 0em 0em; " width="300" height="300" alt=""> 
+
+## Isabel ML Saur
+
+### Team Leader 
+
+<div style="text-align: justify"> Isabel was trained as a Laboratory Assistant in Stuttgart-Hohenheim. She did her undergrad studies in Biotechnology at the Applied Science University Esslingen am Neckar. Isabel got interested in plant sciences and academic research in general during her placements at the Research School of Biology, The Australian National University (ANU), Canberra.  She graduated with a PhD in plant immunity from ANU in 2015 and thereafter joined the Max Planck Institute for Plant Breeding Research (MPIPZ) in Cologne where her research started to focus on the interaction of barley and the powdery mildew fungus. Isabel was granted a DFG Emmy Noether group leader position in 2020. Isabel also enjoys gardening and to exercise. </div>
+
+<br>
+<br>
+
+<img src="/Users/isabe/Desktop/webpage1new/pictures/dummy1.jpg" style="float: left; margin: 0em 1em 0em 0em; " width="300" height="300" alt=""> 
+
+## Research Assistant
+
+### TBD
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img src="/Users/isabe/Desktop/webpage1new/pictures/dummy1.jpg" style="float: left; margin: 0em 1em 0em 0em; " width="300" height="300" alt=""> 
+
+## PhD Student
+
+### We will soon have an open position for a doctoral student.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img src="/Users/isabe/Desktop/webpage1new/pictures/dummy1.jpg" style="float: left; margin: 0em 1em 0em 0em; " width="300" height="300" alt=""> 
+
+## Postdoctoral Fellow
+
+### We will soon have an open position for a Postdoctoral Fellow.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+© Isabel Saur

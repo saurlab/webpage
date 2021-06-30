@@ -1,0 +1,31 @@
+---
+title: "**Previous members**"
+author: ""
+date: ""
+output: 
+  html_document:
+    toc: FALSE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+<br>
+
+## We have not had to say goodbye to anyone yet.
+
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+© Isabel Saur
