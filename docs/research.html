@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Our Research</title>
+
+<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Saur Lab</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Team
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="./current.html">Current team</a>
+    </li>
+    <li>
+      <a href="./previous.html">Previous members</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="./research.html">Research</a>
+</li>
+<li>
+  <a href="./publications.html">Publications</a>
+</li>
+<li>
+  <a href="./join.html">Join us</a>
+</li>
+<li>
+  <a href="./contact.html">Contact</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="./legal.html">Legal notice</a>
+</li>
+<li>
+  <a href="https://twitter.com/izzysaur">
+    <span class="fab fa-twitter"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore"><strong>Our Research</strong></h1>
+<h4 class="author"></h4>
+
+</div>
+
+
+<p><br></p>
+<div id="background" class="section level2">
+<h2><em>Background</em></h2>
+<p><br></p>
+<div style="text-align: justify">
+Most microbes are not able to infect most plants. To facilitate infection, adapted pathogenic microbes secrete virulence factors (so-called effectors) into the host’s apoplast or directly into host cells (Jones &amp; Dangl, 2006). Effectors target variable host components to promote virulence (Lo Presti et al., 2015; Saur &amp; Hückelhoven, 2020). This ultimately facilitates the pathogen’s reproduction and disease development on susceptible host lines (Fig. 1A).
+</div>
+<p><br></p>
+<p><img src="pictures/RFigure1.jpg" style="float: left; margin: 2em 2em 0em 0em; " width="350" height="500" alt=""></p>
+<div style="text-align: justify">
+<p><font size="2"><span style="color: black;"><strong>Figure 1: Schematic representation of the molecular components underlying plant-pathogen interactions. A:</strong> Pathogens (here: <em>Blumeria graminis</em>) secret effectors through feeding structures known as haustoria into the plant cytoplasm. Effectors interfere with host components to promote pathogen proliferation and disease development (here: powdery mildew on barley) on susceptible host lines. <strong>B:</strong> Resistant plants carry intracellular immune receptors (here: MLA) that identify the infection by recognising pathogen effectors (effectors recognised by MLA are known as AVR</font><font size="1"><span style="color: black;">A</font><font size="2"><span style="color: black;"> effectors). Effector recognition causes a local cell death and resistance. This prevents the spread of obligate biotrophic pathogens, as these pathogens require living host cells for proliferation. </font></span></p>
+<p><br></p>
+Resistance is often mediated by nucleotide-binding oligomerization domain-like receptors (NLRs). NLRs recognize pathogen virulence effectors inside plant cells, thereby triggering a resistance response that is often associated with a local cell death (Dodds &amp; Rathjen, 2010). Cell death terminates the spread of obligate biotrophic pathogens, as these phytopathogens require living host cells for proliferation (Fig. 1B). Despite their undisputed importance in the development of diseases, the genetic isolation and functional characterisation of key fungal virulence effectors from the hundreds of small proteins secreted during the pathogenesis of host diseases remains challenging (Lo Presti et al., 2015; Uhse &amp; Djamei, 2018). We primarily focus on the powdery mildew AVR<font size="1">A</font> effectors secreted into the barley (<em>Hordeum vulgare</em>) host cells by the powdery mildew fungus <em>Blumeria graminis</em> forma specialis <em>hordei</em> (<em>Bgh</em>). The importance of AVR<font size="1">A</font> effectors in fungal virulence is underlined by the evolutionary concept of host NLRs sensing crucial pathogen effectors: AVR<font size="1">A</font> variants are recognised for resistance to <em>Bgh</em> by the allelic barley <em>Mildew locus A</em> encoded NLRs (MLAs) (Mooseman &amp; Schaller 1960; Glawe 2008; Seeholzer et al., 2010; Lu et al., 2016; Maekawa et al., 2018; Saur et al., 2019) (Fig. 1B). Remarkably, the isolate-specific rust effectors AvrSr33 and AvrSr50 encoded by the wheat stem rust fungus Puccinia graminis f. sp. tritici (Pgt) are recognised by <em>Mla</em> homologs from wheat and rye (Periyannan et al., 2013; Mago et al., 2015; Chen et al., 2017). As such, MLA recognises effectors from entirely unrelated obligate biotrophic phytopathogens. It is thus possibly that the manipulation of AVR<font size="1">A</font> host targets is crucial for fungal phytopathogens to etablish of a biotrophic lifestyle.
+</div>
+<p><br> <br> <br> <br></p>
+</div>
+<div id="avra-function" class="section level2">
+<h2><em>AVR</em><font size="1"><em>A</em></font> <em>function</em></h2>
+<p><br></p>
+<div style="text-align: justify">
+<p>The NLRs encoded at allelic barley <em>Mla</em> has been studied extensively for decades (Mooseman &amp; Schaller 1960). Only in the last few years, we could isolate the powdery mildew genes encoding the AVR<font size="1">A</font> effectors AVR<font size="1">A1</font>, AVR<font size="1">A6</font>, AVR<font size="1">A7</font>, AVR<font size="1">A9</font>, AVR<font size="1">A10</font>, AVR<font size="1">A13</font>, AVR<font size="1">A22</font> recognised by MLA1, MLA6, MLA7, MLA9, MLA10, MLA13 and MLA22, respectively (Lu et al., 2016, Saur et al., 2019, Bauer et al., 2021).</p>
+<p><br></p>
+<p><img src="pictures/RFigure2A.jpg" style="float: left; margin: 0em 2em 0em 0em; " width="350" height="325" alt=""></p>
+<p><img src="pictures/RFigure2B.jpg" style="float: left; margin: 0em 2em 0em 0em; " width="350" height="340" alt=""></p>
+<p><br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br></p>
+<p><font size="2"><span style="color: black;"><strong>Figure 2: Structural predictions suggest a common fold for the sequence-unrelated AVR</strong></font><font size="1"><span style="color: black;"><strong>A</strong></font> <font size="2"><span style="color: black;"><strong>effectors. A:</strong> Maximum likelihood phylogeny tree for the 805 predicted secreted proteins of <em>Bgh</em> DH14 lacking respective signal peptides. Isolated AVR</font><font size="1"><span style="color: black;">A</font> <font size="2"><span style="color: black;">effectors are highlighted; triangles depicting nodes, which are collapsed to allow a more compact visualization. Modified from Saur et al., 2019. <strong>B:</strong> Structural similarity searches via Intfold v5.0 propose a common fold with a central α-helix facing three to four β-sheets for the powdery mildew AVR</font><font size="1"><span style="color: black;">A</font> <font size="2"><span style="color: black;">effectors.</font></span></p>
+<p><br></p>
+The isolated AVR<font size="1">A</font> effectors display at most 8% sequence identity on the amino acid level and we failed to detect any evolutionary conservation (Fig. 2A) between any pair of these proteins (except the effectors encoded at allelic <em>AVR</em><font size="1"><em>a10</em></font><em>/AVR</em><font size="1"><em>a22</em></font>) (Saur et al., 2019). Notably, the by allelic <em>Mla</em> encoded receptors that recognise these AVR<font size="1">A</font> effectors are over 90% identical on the amino acid level. Updated structural prediction tools (Intfold v5.0) were only recently able to detect a common structural fold for the isolated AVR<font size=“1”>A</font> effectors at the highest confidence level (p&lt;0.0005). The AVR<font size=“1”>A</font> effectors are predicted to harbor one α-helix facing three to four β-sheets (Fig. 2A). This topology is reminiscent of ribonucleases (Fig. 2B).
+</div>
+<p><br></p>
+<p><img src="pictures/RFigure3.jpg" style="float: left; margin: 0em 1em 0em 0em; " width="380" height="400" alt=""></p>
+<p><br></p>
+<div style="text-align: justify">
+<p><font size="2"><span style="color: black;"><strong>Figure 3: AVR</strong></font><font size="1"><span style="color: black;"><strong>A</strong></font> <font size="2"><span style="color: black;"><strong>effectors lack residues for RNase activity and don’t form a ligand binding pocket. A:</strong> Sequence analysis of structural overlay of the <em>Fusarium</em> RNase F1 structure and predicted AVR</font><font size="1"><span style="color: black;">A13</font> <font size="2"><span style="color: black;">structure. Amino acids (aa) highlighted in blue form the nucleotide binding pocket in the functional F1 RNase, the once in red highlight the corresponding aa in AVR</font><font size="1"><span style="color: black;">A13</font> <font size="2"><span style="color: black;">. Errors indicate the aa conserved amongst functional RNases and required for enzymatic ribonuclease activity. <strong>B:</strong> Overlay of the RNase F1 structure (PDB:1FTU) bound to the 2’GMP ligand with the predicted AVR</font><font size="1"><span style="color: black;">A13</font> <font size="2"><span style="color: black;">structural fold. Magnification of the RNase F1 ligand binding pocket demonstrates that the respective residues in AVR</font><font size="1"><span style="color: black;">A13</font> <font size="2"><span style="color: black;">face away from the 2’GMP ligand bound in the structure of the functional F1 RNnase.</font></span></p>
+<p><br></p>
+<p>In fact, ~15% of the <em>Bgh</em> candidate-secreted effector proteins (CSEPs) were predicted to share structural similarities to ribonucleases (Pedersen et al., 2012, Spanu, 2017). Like all these CSEPs, all isolated AVR<font size="1">A</font> effectors lack the conserved catalytic residues for RNases activity (Hill et al., 1983) suggesting that AVR<font size="1">A</font> effectors are unable to process nucleotides (Figure 3A). This catalytic inactivity was confirmed experimentally (Bauer et al., 2021). Overlay of the functional <em>Fusarium</em> RNase F1 structure (PDB:1FTU) bound to the 2’GMP ligand (Vassylyev et al., 1993) with the predicted AVR<font size="1">A13</font> structural fold demonstrates that the AVR<font size="1">A13</font> residues that are equivalent to those form the ligand binding pocket in the RNase F1 structure face away from the 2’GMP ligand of RNase F1 (Fig. 3B), suggesting that AVR<font size="1">A</font> effectors don’t only lack the ability to process nucleotides, but are also unable to bind nucleotide ligands. In agreement, we have also not detected any ability of heterologous AVR<font size="1">A13</font> protein to bind and thereby protect ribosomal RNA processing by a functional RNase (Bauer et al.2021). This leaves us with the question about the virulence function of AVR<font size="1">A</font> effectors.</p>
+Most effectors that are delivered by filamentous eukaryotic pathogens into host cells and recognised there by immune receptors lack detectable enzymatic activity. These effectors may instead function as structural inhibitors of their host targets. We apply unbiased molecular, biochemical and genetic approaches to detect AVR<font size="1">A</font> host targets and investigate the AVR<font size="1">A</font> virulence function.
+</div>
+<p><br> <br></p>
+<div id="literature" class="section level3">
+<h3>Literature</h3>
+<p><br></p>
+<p>Bauer S, Yu D, Lawson AW, Saur IML, Frantzeskakis L, Kracher B, Logemann E, Chai J, Maekawa T, Schulze-Lefert P. 2021. The leucine-rich repeats in allelic barley MLA immune receptors define specificity towards sequence-unrelated powdery mildew avirulence effectors with a predicted common RNase-like fold. PLoS Pathogens 17(2):e1009223.</p>
+<p>Chen J, Upadhyaya NM, Ortiz D, Sperschneider J, Li F, Bouton C, Breen S, Dong C, Xu B, Zhang X, Mago R, Newell K, Xia X, Bernoux M, Taylor JM, Steffenson B, Jin Y, Zhang P, Kanyuka K, Figueroa M, Ellis JG, Park RF, Dodds PN. 2017. Loss of AvrSr50 by somatic exchange in stem rust leads to virulence for Sr50 resistance in wheat. Science 358(6370): 1607-1610.</p>
+<p>Dodds PN, Rathjen JP. 2010. Plant immunity: towards an integrated view of plant-pathogen interactions. Nature Reviews Genetics 11(8): 539-548.</p>
+<p>Hill, C.P., Dodson, G.G., Heineman, U., Saenger, W., Mitsui, Y., Nacamura, K., Borisov, S., Tishenko, G., Polyakov, K., and Pavlovsky, S. 1983. The structural and sequence homology of a family of microbial ribonucleases. Trends in Biochemical Sciences 8:364–369.</p>
+<p>Lo Presti L, Lanver D, Schweizer G, Tanaka S, Liang L, Tollot M, Zuccaro A, Reissmann S, Kahmann R. 2015. Fungal Effectors and Plant Susceptibility. Annual Review of Plant Biology 66: 513-545.</p>
+<p>Lu XL, Kracher B, Saur IML, Bauer S, Ellwood SR, Wise R, Yaeno T, Maekawa T, Schulze-Lefert P. 2016. Allelic barley MLA immune receptors recognize sequence-unrelated avirulence effectors of the powdery mildew pathogen. Proceedings of the National Academy of Sciences of the United States of America 113(42):E6486-E6495.</p>
+<p>Maekawa T, Kracher B, Saur IML, Yoshikawa-Maekawa M, Kellner R, Pankin A, von Korff M, Schulze-Lefert P. 2018. Subfamily-Specific Specialization of RGH1/MLA Immune Receptors in Wild Barley. Molecular Plant Microbe Interactions 32(1):107-119.</p>
+<p>Mago R, Zhang P, Vautrin S, Simkova H, Bansal U, Luo MC, Rouse M, Karaoglu H, Periyannan S, Kolmer J, et al. 2015. The wheat Sr50 gene reveals rich diversity at a cereal disease resistance locus. Nature Plants 1(12):5118. Moseman JG, Schaller CW. 1960. Genetics of the Allelic Series at the Mla Locus in Barley and Cultures of Erysiphe-Graminis F Sp Hordei That Differentiate These Alleles. Phytopathology 50(10): 736-741.</p>
+<p>Pedersen C, Ver Loren van Themaat E, McGuffin LJ, Abbott JC, Burgis TA, Barton G, Bindschedler LV, Lu X, Maekawa T, Wessling R, Cramer R, Thordal-Christensen H, Panstruga R, Spanu PD. 2012. Structure and evolution of barley powdery mildew effector candidates. Bmc Genomics 13:694</p>
+<p>Periyannan S, Moore J, Ayliffe M, Bansal U, Wang X, Huang L, Deal K, Luo M, Kong X, Bariana H, Mago R, McIntosh R, Dodds P, Dvorak J, Lagudah E. 2013. The Gene Sr33, an Ortholog of Barley Mla Genes, Encodes Resistance to Wheat Stem Rust Race Ug99. Science 341(6147):786-788.</p>
+<p>Saur IML, Panstruga R, Schulze-Lefert P. 2021. NOD-like receptor-mediated plant immunity: from structure to cell death. Nature Reviews Immunology 21(5):305-318.</p>
+<p>Saur IML, Hückelhoven R. 2020. Humboldt Review: Recognition and defence of plant-infecting fungal pathogens. Journal of Plant Physiology 256(153324).</p>
+<p>Saur IML, Bauer S, Kracher B, Lu XL, Franzeskakis L, Muller MC, Sabelleck B, Kummel F, Panstruga R, Maekawa T, et al. 2019. Multiple pairs of allelic MLA immune receptor-powdery mildew AVR(A) effectors argue for a direct recognition mechanism. Elife 8:e44471</p>
+<p>Seeholzer S, Tsuchimatsu T, Jordan T, Bieri S, Pajonk S, Yang WX, Jahoor A, Shimizu KK, Keller B, Schulze-Lefert P. 2010. Diversity at the Mla Powdery Mildew Resistance Locus from Cultivated Barley Reveals Sites of Positive Selection. Molecular Plant-Microbe Interactions 23(4):497-509.</p>
+<p>Spanu PD. 2017 Cereal immunity against powdery mildews targets RNase-Like Proteins associated with Haustoria (RALPH) effectors evolved from a common ancestral gene. New Phytologist 213:969–971.</p>
+<p>Uhse S, Djamei A. 2018. Effectors of plant-colonizing fungi and beyond. Plos Pathogens 14(6):e1006992</p>
+<p>Vassylyev DG, Katayanagi K, Ishikawa K, Tsujimoto-Hirano M, Danno M, Pähler A, Matsumoto O, Matsushima M, Yoshida H, Morikawa K. 1993 Crystal structures of ribonuclease F1 of Fusarium moniliforme in its free form and in complex with 2’GMP. Journal of Molecular Biology 230(3):979-96.</p>
+<p><br> <br> <br></p>
+<p>© Isabel Saur</p>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
