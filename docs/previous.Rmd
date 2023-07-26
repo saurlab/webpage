@@ -1,0 +1,54 @@
+---
+title: "**Previous members**"
+author: ""
+date: ""
+output: 
+  html_document:
+    toc: FALSE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+<br>
+
+
+
+
+# Goodbye in 2023: 
+<br>
+-Leonie Raschke
+<br>
+- Emma Crean - Research Assistant
+<div style="text-align: justify"> Emma supported us as a research assistant for a bit over a year before she continued her academic career as a PhD student in synthetic biology at the TU Munich. We all wish you the very best Emma! </div>
+<br>
+- Elisabeth Ejma - Master project student
+<br>
+- Robert Paus - SHK
+
+<br>
+<br>
+
+# Goodbye in 2022: 
+<br>
+- Clara Neumann - CEPLAS project student
+<br>
+- Max-Emanuel Zirngibl - Predoc student
+<br>
+- Judith Ahr - SHK
+
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+© Isabel Saur

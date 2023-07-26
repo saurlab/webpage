@@ -1,0 +1,300 @@
+---
+title: "**News**"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**July 2023 - Publication alert**
+
+Published - Whop Whop:
+[A dominant-negative avirulence effector of the barley powdery mildew fungus provides mechanistic insight to barley MLA immune receptor activation](https://academic.oup.com/jxb/advance-article/doi/10.1093/jxb/erad285/7227262?utm_source=authortollfreelink&utm_campaign=jxb&utm_medium=email&guestAccessKey=1b35d0e0-c52d-4e9c-87df-36301ca6ce25&login=false). 
+<br>
+<br>
+<br>
+
+**July 2023 - Sophie defends her Master thesis**
+
+OMG we did not take a picture! But I guess it is too late. Sophie did a great job in defending her project on cell death in monocots and AVRa-mediated cell detah inhibition
+
+<br>
+
+**May 2023 - Publication alert**
+
+Wei's work on proximity-labeling of Ustilago See1 targets in maize:
+[Combination of in vivo proximity labeling and co-immunoprecipitation identifies the host target network of a tumor-inducing effector in the fungal maize pathogen Ustilago maydis](https://academic.oup.com/jxb/advance-article/doi/10.1093/jxb/erad188/7177932?login=false). 
+<br>
+<br>
+
+
+
+**March 2023 - Conference alert**
+
+Isabel holds a talk at the 42nd [Annual meeting of the DPG Working Group Host-Parasite-Interaction](https://plant-protection.net/en/arbeitskreise/translate-to-english-ak-wirt-parasit-beziehungen) in Freising. 
+
+<br>
+
+**February 2023 - Conference alert**
+
+Merle & Sophie present at the Molecular Biology of Plants Conference in Hennef. Sophie got a travel grant to attend the meeting!! WhopWhopp - Good job, great posters!
+
+<img src="/Users/isabe/Desktop/webpage1new/pictures/MBP23.jpg" style="float: left; margin: 0em 0em 0em 0em; " width="580" height="390" alt=""> 
+<br>
+<br>
+<br>
+<br>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**January 2023 - Publication alert**
+
+We uploaded our manuscript on [A dominant-negative avirulence effector of the barley powdery mildew fungus provides mechanistic insight to barley MLA immune receptor activation](https://www.biorxiv.org/content/10.1101/2023.01.11.523539v1). The manuscript was evaluated positively and is currently in revision for a soon publication :-)
+<br>
+<br>
+<br>
+
+
+**December 2022**
+
+winter is coming....Xmas party and Sophie's lovely advent calendar
+
+<img src="/Users/isabe/Desktop/webpage1new/pictures/xmas1.jpg" style="float: left; margin: 0em 1em 0em 0em; " width="405" height="280" alt=""> 
+
+<img src="/Users/isabe/Desktop/webpage1new/pictures/xmas2.jpg" style="float: right; margin: 0em 1em 0em 0em; " width="405" height="280" alt=""> 
+<br>
+<br>
+<img src="/Users/isabe/Desktop/webpage1new/pictures/xmas3.jpg" style="float: left; margin: 0em 1em 0em 0em; " width="405" height="280" alt=""> 
+
+<img src="/Users/isabe/Desktop/webpage1new/pictures/xmas4.jpg" style="float: right; margin: 0em 1em 0em 0em; " width="405" height="280" alt=""> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br>
+<br><br>
+<br><br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**November 2022 - Some members dared to enter UoC on 11.11.22**
+
+Of course, they dressed up to not appear too conspicuous among all the Jecken @ Zülpicher Str. Alaaf!
+
+<img src="/Users/isabe/Desktop/webpage1new/pictures/111122.jpg" style="float: left; margin: 0em 1em 0em 0em; " width="280" height="390" alt=""> 
+
+
+<br>
+<br>
+<br>
+<br>
+<br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**October 2022 - Retreat with AG Döhlemann**
+
+in St. Goar. Great science and great fun!
+
+<img src="/Users/isabe/Desktop/webpage1new/pictures/Retreat22_1.jpg" style="float: left; margin: 0em 1em 0em 0em; " width="395" height="280" alt=""> 
+
+<img src="/Users/isabe/Desktop/webpage1new/pictures/Retreat22.jpg" style="float: right; margin: 0em 1em 0em 0em; " width="435" height="280" alt=""> 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+**August 2022 - Conference alert**
+
+Merle presents a poster on her work on AVR<font size="1">A</font> effectors at the [Botaniktagung](https://www.botanik-tagung.de/) of the [German Society for Plant Sciences, DBG](https://www.deutsche-botanische-gesellschaft.de/en/home). Very well done!
+
+<br>
+
+**June 2022 - Travel grant for Merle - Great job!**
+
+Merle receives a travel grant to attend the 2022 [Botaniktagung](https://www.botanik-tagung.de/) of the [GGerman Society for Plant Sciences, DBG](https://www.deutsche-botanische-gesellschaft.de/en/home). Great job!
+
+<br>
+
+**June 2022 - New group member**
+
+[Sophie](https://www.saurlab.com/current.html#Sophie_Sent) starts her work on AVR-mediated cell death inhibition. Welcome Sophie!
+
+<br>
+
+**May 2022 - Another group dinner**
+
+@ [Duma](https://duma-restaurant.de/).
+Last time together with our first SHK Judith, who is off to the US for her Bachelor 's thesis
+<img src="/Users/isabe/Desktop/webpage1new/pictures/group2.jpg" style="float: left; margin: 0em 1em 0em 0em; " width="465" height="362" alt=""> 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**May 2022 - Publication alert**
+
+We published a review in Essays in Biochemistry: [Evolution of resistance (R) gene specificity](https://pubmed.ncbi.nlm.nih.gov/35612398/).
+Pre-print available on [Zenodo](https://zenodo.org/record/6475478#.Y2u1OXbMI2w)
+
+<br>
+
+**April 2022 - Conference alert**
+
+The Saur lab attend this years French-German [Workshop on Biotrophy and Plant Immunity](https://www.dfh-ufa.org/programme/forschungswegweiser/workshop-on-biotrophy-and-plant-immunity) AND both, Wei and Isabel gave an oral presentation! Thanks for having us!
+
+<img src="/Users/isabe/Desktop/webpage1new/pictures/biotrophyworkshop.jpg" style="float: left; margin: 0em 1em 0em 0em; " width="465" height="362" alt=""> 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<br>
+
+**April 2022 - Publication alert**
+
+With our collaborators, we published in New Phytologist: [The stem rust effector protein AvrSr50 escapes Sr50 recognition by a substitution in a single surface-exposed residue](https://pubmed.ncbi.nlm.nih.gov/35107838/).
+
+<br>
+
+**February 2022 - First group dinner**
+
+@ [La barra -cava y más-](https://www.la-barra.de/).
+But we forgot to take a picture..... :-(
+
+<br>
+
+**February 2022**
+
+Big welcome to [Merle](https://www.saurlab.com/current.html#Merle_Bilstein-Schloemer) and [Wei](https://www.saurlab.com/current.html#Wei_Shi)!! Let's get started!
+
+<br>
+
+**January 2022**
+
+[Emma](https://www.saurlab.com/current.html#Emma_Crean) joins the Lab! Whoop Whoop! 
+
+<br>
+
+
+**September 2021 - Conference alert**
+
+Isabel presents our newly etablished group's projects @ the annual Powdery Mildew workshop. Meant to be in Zürich, but moved online instead.... :-(
+
+<br>
+
+**September 2021**
+
+Saur Lab (AG Saur) starts @ the [Institute for Plant Sciences, University of Cologne](https://botanik.uni-koeln.de/en/institute-for-plant-sciences).
+Lots of stuff to organize now!
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+© Isabel Saur
