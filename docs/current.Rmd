@@ -1,0 +1,117 @@
+---
+title: "**Current team**"
+output: 
+  html_document:
+    toc: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<br>
+
+<img src="/Users/isabe/Desktop/webpage1new/pictures/izzy.jpg" style="float: left; margin: 0em 1em 0em 0em; " width="250" height="320" alt=""> 
+
+## Isabel ML Saur
+
+
+### Team Leader 
+
+<br>
+
+<div style="text-align: justify"> Isabel was trained as a Laboratory Assistant in Stuttgart-Hohenheim. She did her undergrad studies in Biotechnology at the Applied Science University Esslingen am Neckar. Isabel got interested in plant sciences and academic research in general during her placements at the Research School of Biology, The Australian National University (ANU), Canberra.  She graduated with a PhD in plant immunity from ANU in 2015 and thereafter joined the Max Planck Institute for Plant Breeding Research (MPIPZ) in Cologne where her research started to focus on the interaction of barley and the powdery mildew fungus. Isabel was granted a DFG Emmy Noether group leader position in 2020. Isabel also enjoys gardening and to exercise. </div>
+
+<br>
+<br>
+
+<img src="/Users/isabe/Desktop/webpage1new/pictures/Maike.jpg" style="float: left; margin: 0em 1em 0em 0em; " width="250" height="360" alt=""> 
+
+<br>
+
+
+
+
+## Maike Hofmann
+
+### Research Assistant
+
+<br>
+<br>
+
+<div style="text-align: justify"> Maike joined the lab as a part time RA in March 2023.
+After her training as a Biological-technical Assistant, she was able to gain experience both, in academic research at Universities and also in a number of companies.
+Maike enjoys traveling and spending time with family and friends. 
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<img src="/Users/isabe/Desktop/webpage1new/pictures/Merle1.jpg" style="float: left; margin: 0em 1em 0em 0em; " width="250" height="350" alt=""> 
+<br>
+
+
+
+## Merle Bilstein-Schloemer
+
+### PhD student
+
+<br>
+
+<div style="text-align: justify"> Merle studied Biology and Biotechnology at the Westfälische Wilhelms-University in Münster and graduated with a Masters degree in 2021. During the Bachelor studies she got in contact with plant biotechnology in the group of Prof. Prüfer, in which she also completed her Master thesis that focused on basic research on and optimization of crop plants. She joined the Saur lab as a PhD student in early 2022 to study AVRa effector functions. Besides science, Merle also enjoys reading, cooking and relaxed evenings with friends and family. </div>
+
+<br>
+<br>
+<br>
+
+<img src="/Users/isabe/Desktop/webpage1new/pictures/Sophie.jpg" style="float: left; margin: 0em 1em 0em 0em; " width="250" height="350" alt=""> 
+<br>
+
+## Sophie Sent
+
+### Master student
+
+<br>
+<br>
+
+<div style="text-align: justify"> Sophie completed her Bachelor’s degree at the Rheinische Friedrich-Wilhelms University of Bonn in 2019. She got interested into plant sciences during her thesis investigating the cuticular wax composition of poplar trees at the department for ecophysiology. During her master's studies, she developed a particular interest in plant-microbe interactions. In summer 2022, Sophie joined our group for her Master thesis, which will focus on the AVRa-mediated inhibition of immune response. Sophie also enjoys hiking, gardening and to play tennis. </div>
+
+<br>
+<br>
+<br>
+
+
+
+<img src="/Users/isabe/Desktop/webpage1new/pictures/Wei.jpg" style="float: left; margin: 0em 1em 0em 0em; " width="250" height="350" alt=""> 
+
+<br>
+
+
+## Wei Shi
+
+### Postdoctoral Fellow
+
+<br>
+
+<div style="text-align: justify"> Wei got interested in fungi during the Undergraduate Research Program (URP) at China Agricultural University (CAU), Beijing. Then he started his PhD studies about *Magnaporthe oryzae* in Prof. Dr. Youliang Peng’s group at CAU, the PhD studies made him interested in plant-pathogen interactions. Wei graduated with a PhD in plant pathology from CAU in 2020. Thereafter Wei joined the Terrestrial Microbiology Lab  led by Prof. Dr. Gunther Doehlemann at the University of Cologne to study effector biology. Wei joined the Saur group to include effectors from powdery mildew into his research portfolio. Wei enjoys reading and hiking.</div>
+
+<br>
+<br>
+
+## Saskia Bodendorf
+
+### SHK
+
+<br>
+
+<div style="text-align: justify"> Saskia helps out in the lab a few hours each week. She learns how to make media, to do minipreps, transform bacteria etc. We hope that this knowledge will also be useful for her for her undergrad studies. </div>
+<br>
+<br>
+<br>
+
+© Isabel Saur
