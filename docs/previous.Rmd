@@ -1,0 +1,92 @@
+---
+title: "**Previous members**"
+author: ""
+date: ""
+output: 
+  html_document:
+    toc: FALSE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+<br>
+
+# Goodbye in 2026: 
+
+<br>
+- **Ishani Das ** - Postdoc
+<br>
+Ishani managed to land a Industry job for disease resistance breeding! Very well done Ishani, we are all happy for you and wish you all the best for the future
+<br>
+- **Stephanie Bejarano Oliveira** - Bachlor student
+<br>
+Whop! Well done Stephanie and all the best for your future Masters studies
+<br>
+- **Dennis Schapelhouman ** - Master student - WHB
+<br>
+Thanks for helping  in the lab dor nearly 2 years Dennis!
+<br>
+<br>
+
+# Goodbye in 2025: 
+
+<br>
+- **Stanik Kopriva** - CEPLAS Rotation student
+<br>
+So good also to have had you here, everyone really enjoyed your contributions. Great CEPLAS PhD ahead for sure. But I bet you will be doing protoplast transfections again :-)
+<br>
+- **Linus Börnke** - CEPLAS Rotation student
+<br>
+It was great to have Linus with us. Very impressed by all his work and thoughts. Linus will be doing a great job during his CEPLAS PhD.
+<br>
+- **Fernanda Giampao** - Master Project student
+<br>
+Thanks for your time here and all the best for your next projects in Markus Stetter's lab. You will be doing great!
+<br>
+- **Saskia Bodendorf** - Bachelor student - SHK
+<br>
+Thanks for nearly 2 years in the lab Saskia!
+
+# Goodbye in 2024: 
+<br>
+- **Wipke Von Grüner** - Bachelor student - SHK
+<br>
+<br>
+
+# Goodbye in 2023: 
+<br>
+- **Leonie Raschke** - Bachelor student (Uni Bonn) - SHK
+<br>
+- **Emma Crean** - Research Assistant
+<div style="text-align: justify"> Emma supported us as a research assistant for a bit over a year before she continued her academic career as a PhD student in synthetic biology at the TU Munich. We all wish you the very best Emma!
+<br>
+- **Elisabeth Ejma** - Master Project student
+<br>
+- **Robert Paus** - Bachelor student - SHK
+<br>
+<br>
+
+# Goodbye in 2022: 
+<br>
+- **Clara Neumann** - CEPLAS Project student
+<br>
+- **Max-Emanuel Zirngibl** - Predoc student
+<br>
+- **Judith Ahr** - Bachelor student - SHK
+
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+© Isabel Saur
